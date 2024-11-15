@@ -1,6 +1,3 @@
-Here's the README file with proper formatting for easy copy-pasting:
-
----
 
 # 📊 Crypto Live Data Fetcher & Email Automation 📬
 
