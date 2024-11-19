@@ -97,7 +97,7 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 
 ## 📬 Contact
 
-For questions or suggestions, reach out at **your-email@example.com**. 
+For questions or suggestions, reach out at **thearhat09@gmail.com*. 
 
 Enjoy your automated crypto updates! 💹📈
 
